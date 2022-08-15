@@ -240,6 +240,11 @@
         margin-right: -67px;
     }
 
+    .left-section > h1 {
+        font-size: 54px;
+        color: var(--secondary);
+    }
+
     .imgs-div>img+img+img {
         height: 17rem;
         position: initial;
