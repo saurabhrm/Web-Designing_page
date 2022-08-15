@@ -1,6 +1,7 @@
 #  **Saurabh Mehare**
 
 >### What learn in this project?
+- Media query for mobile responsive
 - linear-gradient
 - filter property of drop Shadow
 - overflow property
@@ -19,7 +20,7 @@
 - display property 
 
 >### Time Required to Complete This Project
-- 3hr 
+- 7hr 
 
 ---
 >### [Live Project Link Click Here ](https://project8-webdesign.netlify.app/)
